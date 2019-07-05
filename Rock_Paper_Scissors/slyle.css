@@ -92,3 +92,19 @@ body {
     font-weight: bold;
     padding: 20px;
 }
+.green-glow {
+    border: 4px solid rgb(51, 124, 9);
+    box-shadow: 0 0 10px #31b43a;
+    ; 
+    
+}
+.white-glow {
+    border: 4px solid rgb(204, 233, 188);
+    box-shadow: 0 0 10px #89928a;
+    
+}
+.red-glow {
+    border: 4px solid rgb(182, 12, 26);
+    box-shadow: 0 0 10px #5c1c1c;
+    
+}
